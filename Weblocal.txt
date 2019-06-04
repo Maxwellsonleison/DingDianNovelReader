@@ -1,0 +1,18 @@
+﻿-Copyrights Cevil 2019
+>Please note when editing this document.
+
+>Do not delete any URLs for this document, add new URLs if needed.
+
+>Add only one URL per line,The last line of the URL is subject to each reading.
+
+>Paste website here,you must start with "url":
+
+----------------------------------------------------------------------------
+>修改本文档时请注意。
+
+>请勿删除此文档的任何URL，如果需要，请添加新URL。
+
+>确保每行只添加一个URL，可多次添加程序只会识别最后一行的URL。
+
+>在此处粘贴网址，您必须以“url”开头：
+url:https://www.booktxt.net/
